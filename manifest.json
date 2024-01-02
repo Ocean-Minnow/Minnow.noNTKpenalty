@@ -1,10 +1,11 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"id": "Minnow.noNTKpenalty",
 	"name": "No Non-Target Kill Penalty",
 	"description": "Makes it so that killing non-targets and incorrect suspects in Freelancer mode does not remove Mercers, which I refuse to call Merces.",
 	"authors": ["Minnow"],
 	"contentFolders": ["content"],
-	"frameworkVersion": "2.25.1"
+	"frameworkVersion": "2.33.7",
+	"updateCheck": "https://github.com/Ocean-Minnow/Minnow.noNTKpenalty/releases/latest/download/updates.json"
 }
